@@ -30,7 +30,7 @@
     "eslint-plugin-vue": "^6.1.2",
     "gsap": "^3.2.2",
     "mymixins": "^1.0.3",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "prettier": "^1.19.1",
     "sass-loader": "^8.0.2",
     "smooth-scrollbar": "^8.5.1",
